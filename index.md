@@ -1,5 +1,3 @@
-theme: minima
-title: Abinaya S Portfolio
 ABINAYA S
 Ariyalur, Tamil Nadu
 📧 bhuvanabi2006@gmail.com | 📞 +91 9443653598
